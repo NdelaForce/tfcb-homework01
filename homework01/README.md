@@ -8,7 +8,7 @@ This homework will assess your ability to use GitHub, organize projects, and app
 
 Make a GitHub account and populate your bio by including your research interests, place of work, location, professional webpage (or science-focused twitter account!). Here's an example [github.com/trvrb](https://github.com/trvrb/).
 
-_Include the link to your GitHub profile here._
+_[github.com/NdelaForce](https://github.com/NdelaForce)_
 
 ## Problem 2
 
@@ -44,7 +44,7 @@ The first time you try doing this, you will get an error asking you to configure
 Use the URL of the GitHub repository you created above to configure the Remote.
 Now you should be able to push any further changes to your repository.
 
-_Include the link to your `tfcb-homework01` GitHub repository here._
+_(https://github.com/NdelaForce/tfcb-homework01)_
 
 ## Problem 4
 
@@ -54,7 +54,7 @@ This question assesses your ability to organize files and directories associated
 
 Organize files into a more consistent structure. Group images into a `images/` directory. Separate source code and data. Rename files to remove spaces and improve consistency. Commit changes and publish to your public GitHub repository.
 
-_Include the link to your `tfcb-homework01` GitHub repository here._
+_https://github.com/NdelaForce/tfcb-homework01/tree/main/messy-project-directory_
 
 ## Problem 5
 
@@ -66,7 +66,7 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 
 Commit this file and publish to your public GitHub repository.
 
-_Include the link to your `README.md` here._
+_[[`README.md`](https://github.com/NdelaForce/tfcb-homework01/blob/main/homework01/messy-project-directory/README_homework/README.md)]_
 
 ## Problem 6
 
@@ -80,4 +80,4 @@ Export this as a tab-delimited `.csv` text file with Unix line endings.
 
 Commit the modified `.xlsx` file and the `.csv` file and publish to your public GitHub repository.
 
-_Include the link to your `.csv` file on GitHub here._
+_(https://github.com/NdelaForce/tfcb-homework01/blob/main/homework01/messy-project-directory/Data_sets/Survey%20_data_tidy.csv)_

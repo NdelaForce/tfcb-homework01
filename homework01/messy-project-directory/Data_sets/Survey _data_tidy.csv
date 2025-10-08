@@ -1,4 +1,4 @@
-﻿Field season,Species,Date Collected,Plot,Sex,Weight (g),Scale Calibrated
+﻿Field_season,Species,Date_Collected,Plot,Sex,Weight_(g),Scale_Calibrated
 2013,DM,7/16/13,2,F,N/A,Yes
 2013,DM,7/16/13,7,M,33,Yes
 2013,DM,7/16/13,3,M,N/A,Yes
@@ -45,4 +45,5 @@
 2014,DM,1/8/78,4,M,N/A,Yes
 2014,DM,1/8/78,4,F,48,Yes
 2014,DO,1/8/78,4,M,52,Yes
+
 2014,OL,1/8/78,4,M,35,Yes

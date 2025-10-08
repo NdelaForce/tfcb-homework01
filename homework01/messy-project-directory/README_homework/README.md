@@ -3,7 +3,7 @@
 Homework 01 can be found here [Natalia's Github Homework 01 repository](https://github.com/NdelaForce/tfcb-homework01).
 
 ## **This file includes folders for:**
-* [Images](https://github.com/NdelaForce/tfcb-homework01/tree/main/homework01/messy-project-directory/Images
+* [Images](https://github.com/NdelaForce/tfcb-homework01/tree/main/homework01/messy-project-directory/Images)
 * [Data sets](https://github.com/NdelaForce/tfcb-homework01/tree/main/homework01/messy-project-directory/Data_sets)
 * [Code](https://github.com/NdelaForce/tfcb-homework01/tree/main/homework01/messy-project-directory/Code)
 
@@ -19,4 +19,5 @@ Homework 01 can be found here [Natalia's Github Homework 01 repository](https://
 
 The original data set was cleaned up and saved as [Survey_data_tidy.xlsx](https://github.com/NdelaForce/tfcb-homework01/blob/main/homework01/messy-project-directory/Data_sets/Survey%20_data_tidy.xlsx) 
 in Excel format and as a .csv [Survey_data_tidy.csv](https://github.com/NdelaForce/tfcb-homework01/blob/main/homework01/messy-project-directory/Data_sets/Survey%20_data_tidy.csv)
+
 
